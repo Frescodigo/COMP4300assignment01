@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 292 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  assignment01.vcxproj -> C:\dev\COMP4300\assignment01\bin\x64-Release\assignment01.exe
+  Copies the fonts folder into the binary folder
+  C:\dev\COMP4300\assignment01\src\fonts\droid-sans-mono.ttf
+  1 File(s) copied
+          1 file(s) copied.
